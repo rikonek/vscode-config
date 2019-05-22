@@ -1,0 +1,28 @@
+{
+    "editor.multiCursorModifier": "alt",
+    "editor.rulers": [80],
+    "editor.tabSize": 8,
+    "editor.formatOnPaste": false,
+    "window.zoomLevel": 0,
+    "gitlens.statusBar.alignment": "left",
+    "gitlens.advanced.messages": {
+        "suppressShowKeyBindongsNotice": true
+    },
+    "editor.renderWhitespace": "boundary",
+    "gitlens.historyExplorer.enabled": false,
+    "breadcrumbs.enabled": false,
+    "workbench.editor.highlightModifiedTabs": true,
+    "gitlens.views.fileHistory.enabled": false,
+    "gitlens.views.lineHistory.enabled": false,
+    "explorer.confirmDelete": false,
+    "php.executablePath": "/usr/bin/php",
+    "php.validate.executablePath": "/usr/bin/php",
+    "php-cs-fixer.executablePath": "/usr/local/bin/php-cs-fixer",
+    "php-cs-fixer.formatHtml": true,
+    "php-cs-fixer.autoFixBySemicolon": true,
+    "php-cs-fixer.rules": "@PSR2",
+    "workbench.startupEditor": "newUntitledFile",
+    "[php]": {
+        "editor.tabSize": 4,
+    }
+}
